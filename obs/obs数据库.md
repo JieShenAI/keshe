@@ -75,7 +75,6 @@ insert into user values(
 drop table company;
 ```
 
-![image-20200711170843403](C:\Users\tiffa\AppData\Roaming\Typora\typora-user-images\image-20200711170843403.png)
 
 > 因为 company表对user表有外键约束
 
